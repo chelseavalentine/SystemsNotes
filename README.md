@@ -104,3 +104,4 @@ Topics discussed/mentioned in class/to explore:
 99. Hive
 100. Database Management Systems (DBMS)
 101. throughput
+102. kubernetes
